@@ -22,6 +22,7 @@ public class App {
                 System.out.println(f);// 2.9
                 double d = 10/3; //3.333
                 System.out.println(d);
+                System.out.println("hello" + 2 + 2);
                 
         
         
